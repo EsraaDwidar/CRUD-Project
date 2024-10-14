@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CRUD Project.DAL\bin\Debug\net8.0\CRUD Project.DAL.deps.json
+C:\Users\User\source\repos\CRUD Project.DAL\bin\Debug\net8.0\CRUD Project.DAL.runtimeconfig.json
+C:\Users\User\source\repos\CRUD Project.DAL\bin\Debug\net8.0\CRUD Project.DAL.dll
+C:\Users\User\source\repos\CRUD Project.DAL\bin\Debug\net8.0\CRUD Project.DAL.pdb
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\CRUD Project.DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\CRUD Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\CRUD Project.DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\CRUD Project.DAL.AssemblyInfo.cs
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\CRUD Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\CRUD Project.DAL.dll
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\refint\CRUD Project.DAL.dll
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\CRUD Project.DAL.pdb
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\CRUD Project.DAL.genruntimeconfig.cache
+C:\Users\User\source\repos\CRUD Project.DAL\obj\Debug\net8.0\ref\CRUD Project.DAL.dll
