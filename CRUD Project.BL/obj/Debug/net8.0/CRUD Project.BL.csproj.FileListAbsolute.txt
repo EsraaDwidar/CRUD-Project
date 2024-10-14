@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CRUD Project.BL\bin\Debug\net8.0\CRUD Project.BL.deps.json
+C:\Users\User\source\repos\CRUD Project.BL\bin\Debug\net8.0\CRUD Project.BL.dll
+C:\Users\User\source\repos\CRUD Project.BL\bin\Debug\net8.0\CRUD Project.BL.pdb
+C:\Users\User\source\repos\CRUD Project.BL\bin\Debug\net8.0\CRUD Project.DAL.dll
+C:\Users\User\source\repos\CRUD Project.BL\bin\Debug\net8.0\CRUD Project.DAL.pdb
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\CRUD Project.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\CRUD Project.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\CRUD Project.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\CRUD Project.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\CRUD Project.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\CRUD Pro.DA925DFF.Up2Date
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\CRUD Project.BL.dll
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\refint\CRUD Project.BL.dll
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\CRUD Project.BL.pdb
+C:\Users\User\source\repos\CRUD Project.BL\obj\Debug\net8.0\ref\CRUD Project.BL.dll
